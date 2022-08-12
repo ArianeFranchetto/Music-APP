@@ -1,0 +1,28 @@
+
+
+.container {
+    background-color: #add8e6;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+  }
+  
+  .capa-album {
+    width: 100px;
+    margin-top: 5px;
+  }
+  
+  
+  .progress {
+    background-color: grey
+  }
+  
+  
+  
+  .player {
+    width: 150px;
+    display: flex;
+    margin-bottom: 5px;
+    
+  }
